@@ -1,1 +1,1 @@
-# my-project
+# my-project CI/CD workflow
